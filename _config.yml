@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Open Diplomatic Editions
+tagline:          'A peer-reviewed publication for diplomatic editions'
+description:      'A peer-reviewed publication for diplomatic editions, available under CC licenses'
+baseurl: 'http://diplomaticeditions.github.io/'
+
+
+
+author:
+  name:           'Neel Smith'
+ 
+paginate:         5
+
+links:
+  - title: Github source for this site
+    url: https://github.com/diplomaticeditions/diplomaticeditions.github.io
+    external: true
+
+   
