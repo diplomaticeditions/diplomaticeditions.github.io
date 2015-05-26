@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Open Diplomatic Editions
 tagline:          'A peer-reviewed publication for diplomatic editions'
-description:      'A peer-reviewed publication for diplomatic editions, available under CC licenses'
+description:      'ODE: a peer-reviewed publication for diplomatic editions, available under CC licenses'
 baseurl: 'http://diplomaticeditions.github.io/'
 
 
