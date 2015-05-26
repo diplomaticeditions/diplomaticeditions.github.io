@@ -23,7 +23,7 @@ ODE only publishes complete diplomatic editions of texts.  Editors may, however,
 ## Access to editions ##
 
 
-ODE makes editions available in archival data formats.  These are hosted and can be downloaded from the publication series' central github repository.  The master branch always has the most recent peer-reviewed release.  
+ODE makes editions available in archival data formats.  These are hosted on the publication series' central github repository and can be downloaded directly from there.  The repository's master branch always has the most recent peer-reviewed release.  
 
 In addition, ODE hosts a simple reading-browsing application you can use to read any ODE text from a web browser.  This includes an illustrated facsimile reader for ODE full-facsimile editions.
 
