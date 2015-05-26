@@ -3,11 +3,16 @@ title: Guidelines for submissions
 layout: page
 ---
 
-## Basic diplomatic edition ("gold level")
+## Diplomatic textual edition ##
 
-1. editions have an explicitly defined structure. Usually, this will be some form of XML, but "TEI-compliant" won't make it, since that could be anything under the sun.  A distinct subset of TEI could work.
-2. the structure supports an explicitly defined canonical citation system.
-3. some form of validation is defined.  "We typed a lot and it didn't look bad when we reread it" won't make it.
+While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  Before the ODE editorial board sends a submission out for review, they will ensure that it satisfies the following critiera:
+
+1. The editors must have chosen one of the following two licenses for publication:
+    2. CC-BY-SA
+    3. CC-BY-SA-NC
+1. The edition must follow a documented structure. Usually, this will be some form of XML, but that is not strictly required.  XML documents should include some form of syntactic validation (such as a Relax NG or XML Schema).  Documentation of the structure should be descriptive prose formatted in [lean markdown](../markdown).
+2. The edition must have a canonical citation system, and the documentation of the structure must specify how citation values are identified in the edition.
+3. In addition to its structural validation, the edition must specify some form of content validation.  "We typed a lot and it didn't look bad when we reread it" won't make it.
 
 
 ## Full facsimile-level edition ("platinum level")##
