@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-ODE reviews diplomatic editions of any primary document (such as manuscripts, incriptions, papyri) for which we can find competent reviewers.  The current editorial board's expertise is primarily in Greek and Latin documents of all kinds, but we encourage editors of texts in other languages to consult with us about the possibility of finding reviewers for your work.
+ODE reviews and publishes diplomatic editions of any primary document (such as manuscripts, incriptions, papyri) for which we can find competent reviewers.  The [current editorial board's](../edboard) expertise is primarily in Greek and Latin documents of all kinds, but we encourage editors of texts in other languages to consult with us about the possibility of finding reviewers for your work.
 
 ODE reviews editions to one of two standards:
 
@@ -12,7 +12,12 @@ ODE reviews editions to one of two standards:
 2. Full facsimile editions
 
 
-See further information about each standard in "[Guidelines for submissions](../guidelines)".
+(See further information about each standard in "[Guidelines for submissions](../guidelines)".)
+
+When an edition is accepted for publication, it is added to the next release both of the master branch of [ODE's github repository](https://github.com/diplomaticeditions/editions), and to the Canonical Text Service instance used by ODE's reading-browsing application.
+
+ODE only publishes complete diplomatic editions of texts.  Editors may, however, submit partially complete editions for preliminary review.  If these are accepted, they will be added to the `inprogress` branch of ODE's github repository, and to a separate Canonical Text Service instance serving unpublished work in progress. 
+
 
 
 ## Access to editions ##

@@ -20,9 +20,11 @@ paginate:         5
 
 links:
   - title: About ODE
-    url: about	
+    url: /about	
+  - title: Guidelines for submission
+    url: /guidelines	
   - title: ODE editorial board
-    url: edboard	
+    url: /edboard
   - title: Github source for this site
     url: https://github.com/diplomaticeditions/diplomaticeditions.github.io
     external: true
