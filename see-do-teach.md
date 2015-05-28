@@ -1,0 +1,10 @@
+---
+layout: page
+title: "See one, do one, teach one"
+---
+
+ODE aims both to publish top-quality digital editorial work, and to foster the wider adoption of best practices.  One way to disseminate expertise is the medical school model of "see one, do one, teach one."  At ODE, you can *see* published examples of reviewed diplomatic editions;  you can submit your own editions for review, and *do one*; and we strongly encourage editors published in ODE to add their name to our list of potential reviewers, and help *teach one*.  
+
+Our review process differs from some traditional journals.  Readers' reports aim not merely at evaluating whether or not a submission is publishable, or identifying what changes would be required to make a submission publishable.  Instead, they should clearly identify strengths or weaknesses of the submitted work in terms that will help editors explain the rationale for their editorial choices and educate others about digital editing.
+
+In our own experience, collaborative editing often leads to better results than working in isolation, and we believe that a collaborative review process is especially beneficial for our dual goals of publishing good editions and educating editors.  Two or more reviewers receive anonymized copies of each submission to evaluate against the [ODE guidelines](../guidelines).  The reviewers confer via video conference to discuss their individual evaluations, and prepare a single, jointly signed readers' report.  Our aim wherever possible is to arrive at a clearly articulated consensus.  Where reviewers disagree, they will explain the grounds of their disagreement in the joint report.  We believe that this will be much more helpful than separate conflicting reports that cannot take account of each other.  We hope that the small converations of this collaborative review process will help foster a wider awareness of and consensus about editorial practices in digital diplomatic editions.

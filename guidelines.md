@@ -3,10 +3,12 @@ title: Guidelines for submissions
 layout: page
 ---
 
+ODE welcomes submissions from individuals and collaborative research groups, with or without formal institutional affiliation.  Anonymized submissions are reviewed by at least two reviewers.  When the review is complete, editors will receive a single report from ODE.  See more information about [our review process](../see-do-teach).
+
 
 ## Diplomatic textual edition ##
 
-While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  Before the ODE editorial board sends a submission out for review, they will ensure that it satisfies the following critiera:
+While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  Before the ODE editorial board sends a submission out for review, we will ensure that it satisfies the following critiera:
 
 1. The editors must have chosen one of the following two licenses for publication:
     2. CC-BY-SA
@@ -27,7 +29,12 @@ Full facsimile-level editions must satisfy all the requirements for a diplomatic
 1. citation of visual data sources for each citable node of the textual edition.  The simplest format for this mapping is a table pairing textual references (in the form of CTS URNs) with image citations (in the form of CITE Object URNs.)
 
 
+
 ## Work in progress  ##
 
 
 Partial editions satisfying all the criteria for either a diplomatic textual edition or a full facsimile edition may be submitted for a preliminary review, and included in ODE's `inprogress` content.  This can be a valuable way to "release early/release often," and ensure that a project's editorial practice satisfies the requirements of inclusion in ODE.   Only editions of complete texts are included in published releases of ODE, however.
+
+
+
+
