@@ -9,7 +9,9 @@ permalink:        pretty
 title:            Open Diplomatic Editions
 tagline:          'A peer-reviewed publication for diplomatic editions'
 description:      'ODE: a peer-reviewed publication for diplomatic editions, available under CC licenses'
-baseurl: 'http://diplomaticeditions.github.io/'
+#baseurl: 'http://diplomaticeditions.github.io/'
+#baseurl: '/'
+baseurl: '/ode-draft/'
 
 
 
