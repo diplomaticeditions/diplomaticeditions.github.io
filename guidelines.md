@@ -8,7 +8,9 @@ ODE welcomes submissions from individuals and collaborative research groups, wit
 
 ## Diplomatic textual edition ##
 
-While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  Before the ODE editorial board sends a submission out for review, we will ensure that it satisfies the following critiera:
+While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  We normally expect that submissions will edit an entire work;  we recognize, however, that it can sometimes be worthwhile to publish diplomatic editions of a coherent section of a longer work.  In those cases, editors should explain the rationale for publication of the edited part of the work.
+
+Before the ODE editorial board sends a submission out for review, we will ensure that it satisfies the following critiera:
 
 1. The editors must have chosen one of the following two licenses for publication:
     2. CC-BY-SA
@@ -16,6 +18,7 @@ While editors may submit editions in a format of their choosing (accompanied by 
 1. The edition must follow a documented structure. Usually, this will be some form of XML, but that is not strictly required.  All editions should include some form of syntactic validation (such as a Relax NG or XML Schema for an XML edition).  Documentation of the structure should be descriptive prose formatted in [lean markdown](../markdown).
 2. The edition must have an appropriate canonical citation system, and the documentation of the structure must specify how citation values are identified in the edition.
 3. In addition to its structural validation, the edition must specify some form of content validation.
+4. The edition should include at least a  brief commentary on the place of this version in the history of the work's transmission.  If the edition does not cover the entire work, the commentary should include the rationale for editing the selected section separately.
 
 
 
@@ -33,7 +36,8 @@ Full facsimile-level editions must satisfy all the requirements for a diplomatic
 ## Work in progress  ##
 
 
-Partial editions satisfying all the criteria for either a diplomatic textual edition or a full facsimile edition may be submitted for a preliminary review, and included in ODE's `inprogress` content.  This can be a valuable way to "release early/release often," and ensure that a project's editorial practice satisfies the requirements of inclusion in ODE.   Only editions of complete texts are included in published releases of ODE, however.
+Partial editions satisfying all the criteria for either a diplomatic textual edition or a full facsimile edition may be submitted for a preliminary review, and included in ODE's `inprogress` content.  This can be a valuable way to "release early/release often," and ensure that a project's editorial practice satisfies the requirements of inclusion in ODE.   When a complete edition of a work or distinct section of a work is ready for submission, it can be reviewed for inclusion in the published releases of ODE.
+
 
 
 
