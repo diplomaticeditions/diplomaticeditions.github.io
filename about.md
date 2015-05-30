@@ -16,8 +16,7 @@ ODE reviews editions to one of two standards:
 
 When an edition is accepted for publication, it is added to the next release both of the master branch of [ODE's github repository](https://github.com/diplomaticeditions/editions), and to the Canonical Text Service instance used by ODE's reading-browsing application.
 
-ODE only publishes complete diplomatic editions of texts.  Editors may, however, submit partially complete editions for preliminary review.  If these are accepted, they will be added to the `inprogress` branch of ODE's github repository, and to a separate Canonical Text Service instance serving unpublished work in progress. 
-
+While ODE only publishes completed diplomatic editions of texts or sections of texts, editors may submit partially complete editions for preliminary review.  If these are accepted, they will be added to the `inprogress` branch of ODE's github repository, and to a separate Canonical Text Service instance serving unpublished work in progress. 
 
 
 ## Access to editions ##
