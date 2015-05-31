@@ -8,7 +8,10 @@ ODE welcomes submissions from individuals and collaborative research groups, wit
 
 ## Diplomatic textual edition ##
 
-While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  We normally expect that submissions will edit an entire work;  we recognize, however, that it can sometimes be worthwhile to publish diplomatic editions of a coherent section of a longer work.  In those cases, editors should explain the rationale for publication of the edited part of the work.
+While editors may submit editions in a format of their choosing (accompanied by explanatory documentation), they are encouraged to consult with the ODE editorial board prior to submitting an edition for review if they are uncertain about the acceptability of their editorial format, or if it departs signficantly from the [template material available from ODE](../templates).  
+
+Submissions should be a diplomatic edition of an entire, self-standing work, or, when a scholarly rationale can be presented for publishing a coherent section of a longer work, a diplomatic edition of that section.
+
 
 Before the ODE editorial board sends a submission out for review, we will ensure that it satisfies the following critiera:
 
