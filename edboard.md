@@ -3,4 +3,4 @@ layout: page
 title: Editorial board
 ---
 
-To be added when initial editorial board has been established.
+A list of names will be posted here when the composition of the initial editorial board has been confirmed.
