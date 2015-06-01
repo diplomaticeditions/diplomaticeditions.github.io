@@ -18,7 +18,7 @@ Before the ODE editorial board sends a submission out for review, we will ensure
 1. The editors must have chosen one of the following two licenses for publication:
     2. CC-BY-SA
     3. CC-BY-SA-NC
-1. The edition must follow a documented structure. Usually, this will be some form of XML, but that is not strictly required.  All editions should include some form of syntactic validation (such as a Relax NG or XML Schema for an XML edition).  Documentation of the structure should be descriptive prose formatted in [lean markdown](../markdown).
+1. The edition must follow a documented structure. Usually, this will be some form of XML, but that is not strictly required.  All editions should include some form of syntactic validation (such as a Relax NG or XML Schema for an XML edition).  Documentation of the structure should be descriptive prose formatted in "[bland markdown](../markdown)".
 2. The edition must have an appropriate canonical citation system, and the documentation of the structure must specify how citation values are identified in the edition.
 3. In addition to its structural validation, the edition must specify some form of content validation.
 4. The edition should include at least a  brief commentary on the place of this version in the history of the work's transmission.  If the edition does not cover the entire work, the commentary should include the rationale for editing the selected section separately.
