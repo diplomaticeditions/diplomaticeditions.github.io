@@ -33,6 +33,8 @@ ODE works with editors of *full-facsimile* editions to host openly licensed imag
 
 In the future, we plan to offer a configuration for a virtual machine you can use to host and serve your own selection of ODE editions.
 
+For editions that directly follow one of the ODE example templates, we can generate on-demand print versions of the publication, and can work with editors of editions in comparable formats to generate print versions.
+
 
 
 
