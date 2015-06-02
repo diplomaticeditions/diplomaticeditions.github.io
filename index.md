@@ -7,6 +7,7 @@ title: "Open Diplomatic Editions (ODE)"
 ## Contents ##
 
 
+- [Why open diplomatic editions](why)?
 - [About ODE](about) 
 - [See one, do one, teach one](see-do-teach): our review process
 - [Guidelines for submissions](guidelines)

@@ -21,6 +21,8 @@ author:
 paginate:         5
 
 links:
+  - title: Why open diplomatic editions?
+    url: /why	
   - title: About ODE
     url: /about	
   - title: Guidelines for submission
